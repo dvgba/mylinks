@@ -283,4 +283,51 @@ body {
     margin-left: 18px;
 }
 
+.frame-6{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 40px;
+    margin-top: 32px;
+    min-width: 380px;
+    padding: 11px 138px;
+    font-family: 'Poppins' sans-serif;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 16px;
+}
+
+
+.pt{
+
+    letter-spacing: 0;
+    line-height: 15.5px;
+    margin-left: 32px;
+    min-height: 16px;
+    min-width: 14px;
+    text-align: center;
+    white-space: nowrap;
+}
+.en{
+
+    letter-spacing: 0;
+    line-height: 15.5px;
+    margin-left: 32px;
+    min-height: 16px;
+    min-width: 14px;
+    text-align: center;
+    white-space: nowrap;
+}
+.es{
+
+    letter-spacing: 0;
+    line-height: 15.5px;
+    margin-left: 32px;
+    min-height: 16px;
+    min-width: 14px;
+    text-align: center;
+    white-space: nowrap;
+    margin-right: 8px;
+}
+
 
